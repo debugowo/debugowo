@@ -12,7 +12,8 @@
       height="48"
     />
   </a>
-
+</div>
+<div>
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=flask,fastapi,django"
@@ -36,7 +37,8 @@
       height="48"
     />
   </a>
-
+</div>
+<div>
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=react,mui,bootstrap"
@@ -60,7 +62,8 @@
       height="48"
     />
   </a>
-
+</div>
+<div>
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=docker,workers,githubactions,linux,git"
@@ -78,18 +81,10 @@
 </p>
 
 <a href="http://www.github.com/debugowo">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcSet="https://github-readme-stats.vercel.app/api?username=debugowo&count_private=true&show_icons=true&hide_border=true&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcSet="https://github-readme-stats.vercel.app/api?username=debugowo&count_private=true&show_icons=true&hide_border=true&theme=default"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=debugowo&count_private=true&show_icons=true&hide_border=true&theme=default"
-      alt="debugowo's GitHub Stats"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=debugowo&count_private=true&show_icons=true&hide_border=true&theme=transparent"
+    alt="debugowo's GitHub Stats"
+    width="495"
+    height="195"
+  />
 </a>
